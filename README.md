@@ -49,7 +49,7 @@ DocuMentor AI is an intelligent document management and chatbot application desi
 
 1. **Run the Streamlit app**:
     ```sh
-    streamlit run app.py
+    streamlit run documentor.py
     ```
 
 2. **Upload documents**:
